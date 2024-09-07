@@ -11,6 +11,7 @@ package edu.unijui.adm;
 public class ProjetoBanco {
 
     public static void main(String[] args) {
+
         System.out.println("Hello World!");
     }
 }
